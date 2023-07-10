@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>luxkao</title>
+    <link>luxkao.me/</link>
+    <description>Recent content on luxkao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Jul 2023 00:47:38 -0300</lastBuildDate><atom:link href="luxkao.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>my second post</title>
+      <link>luxkao.me/blog/my-second-post/</link>
+      <pubDate>Mon, 10 Jul 2023 01:22:12 -0300</pubDate>
+      
+      <guid>luxkao.me/blog/my-second-post/</guid>
+      <description>2023-07-10</description>
+    </item>
+    
+    <item>
+      <title>my first post</title>
+      <link>luxkao.me/blog/my-first-post/</link>
+      <pubDate>Mon, 10 Jul 2023 00:44:18 -0300</pubDate>
+      
+      <guid>luxkao.me/blog/my-first-post/</guid>
+      <description>2023-07-10
+hi! this is my first blog post using hugo!</description>
+    </item>
+    
+  </channel>
+</rss>
