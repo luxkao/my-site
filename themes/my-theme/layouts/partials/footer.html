@@ -1,5 +1,7 @@
 </main>
-	
+	<article> 
+		{{ if .Param "nextprev" }}{{ partial "nextprev.html" . -}}{{ end -}}
+	</article>
 <footer>
 	<p>{{ dateFormat "2006" now }} | {{ .Site.Title }}</p>
 </footer>

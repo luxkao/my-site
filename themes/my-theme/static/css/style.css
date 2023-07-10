@@ -4,7 +4,7 @@ body {
   background-color: #99ff99;
   color: #000000;
   font-family: "Helvetica", Arial, sans-serif;
-  line-height: 1.5;
+  line-height: 1.3;
   max-width: 65ch;
   padding: 10px;
   font-size: 18px;
@@ -24,6 +24,29 @@ footer {
 .content {
   margin-bottom: 2rem;
   flex: 1 0 auto;
+}
+
+#nextprev {
+  display: flex;
+  justify-content: space-between;
+}
+
+figure {
+  margin: 2rem auto 1rem;
+  text-align: center;
+}
+
+figure img {
+  max-width: 100%;
+}
+
+figcaption {
+  color: var(--color-subtext);
+  font-size: 1rem;
+  font-style: italic;
+  text-align: center;
+  padding-top: 0.5rem;
+  padding-bottom: 1rem;
 }
 
 /* NAVIGATION */
