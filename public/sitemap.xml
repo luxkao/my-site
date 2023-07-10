@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>luxkao.me/blog/</loc>
+    <loc>http://luxkao.me/blog/</loc>
     <lastmod>2023-07-10T01:22:12-03:00</lastmod>
   </url><url>
-    <loc>luxkao.me/blog/my-second-post/</loc>
+    <loc>http://luxkao.me/blog/my-second-post/</loc>
     <lastmod>2023-07-10T01:22:12-03:00</lastmod>
   </url><url>
-    <loc>luxkao.me/</loc>
+    <loc>http://luxkao.me/</loc>
     <lastmod>2023-07-10T00:47:38-03:00</lastmod>
   </url><url>
-    <loc>luxkao.me/blog/my-first-post/</loc>
+    <loc>http://luxkao.me/blog/my-first-post/</loc>
     <lastmod>2023-07-10T00:44:18-03:00</lastmod>
   </url><url>
-    <loc>luxkao.me/categories/</loc>
+    <loc>http://luxkao.me/categories/</loc>
   </url><url>
-    <loc>luxkao.me/tags/</loc>
+    <loc>http://luxkao.me/tags/</loc>
   </url>
 </urlset>
