@@ -1,4 +1,4 @@
-baseURL = 'http://luxkao.me/my-site/'
+baseURL = 'http://luxkao.me'
 languageCode = 'en-us'
 title = 'luxkao'
 theme = 'my-theme'
